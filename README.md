@@ -1,33 +1,7 @@
  
+# Teacher Hop!
+Je speelde wellicht al honderd keren het dino-spelletje wanneer je geen internetverbinding had. Je bent misschien een sterspeler, zo eentje met de allerhoogste high-score in jouw volledige klas! Maar stel je voor dat je dat spel spelen kon, niet met een stokoude dinosaurus, maar met jouw favoriete leerkracht! Ontwijk zwermen aan vogels, hop over stronken en vlieg hoog boven bomen heen. Gebruik jouw reflexen, want het gaat steeds sneller en sneller! Probeer om jouw favoriete leerkracht tot het einde van het bos te brengen of om de hoogste score op jouw naam te zetten!
+
+Speel dit spel via: [https://robbew.github.io/teacher_hop/](https://robbew.github.io/teacher_hop/)
 
 
-> Open this page at [https://robbew.github.io/teacher_hop/](https://robbew.github.io/teacher_hop/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/teacher_hop** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/teacher_hop/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/teacher_hop** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/teacher_hop/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
